@@ -1,6 +1,6 @@
 .event {
-    @include centeredBlock($mediumColWidth);
-    h3 {
-        font-size: 1.2rem;
-    }
+  @include centeredBlock($mediumColWidth);
+  h3 {
+    font-size: 1.2rem;
+  }
 }

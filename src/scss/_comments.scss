@@ -1,6 +1,6 @@
-@import "variables";
+@import 'variables';
 
 .comments {
-    @include centeredBlock($colWidth);
-    border-top: rgba(0,0,0,0.1) 1px solid;
+  @include centeredBlock($colWidth);
+  border-top: rgba(0, 0, 0, 0.1) 1px solid;
 }

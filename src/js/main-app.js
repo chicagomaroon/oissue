@@ -1,4 +1,4 @@
-import "../scss/main.scss";
+import '../scss/main.scss';
 
 /*
 window.$('.icon-facebook').click((e) => {
@@ -18,11 +18,11 @@ window.$('.icon-twitter').click((e) => {
 
 // prevent widows
 // let widowElements = [].slice.call(document.getElementsByClassName('no-widows'));
-let elements = document.querySelectorAll('.no-widows');
-Array.prototype.forEach.call(elements, function(el, i){
-  let wordArray = el.textContent.trim().split(' ');
+const elements = document.querySelectorAll('.no-widows');
+Array.prototype.forEach.call(elements, (el, i) => {
+  const wordArray = el.textContent.trim().split(' ');
   if (wordArray.length > 1) {
-    wordArray[wordArray.length - 2] += '&nbsp;' + wordArray[wordArray.length - 1];
+    wordArray[wordArray.length - 2] += `&nbsp;${wordArray[wordArray.length - 1]}`;
     wordArray.pop();
     el.innerHTML = wordArray.join(' ');
   }
