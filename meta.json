@@ -1,8 +1,8 @@
 {
   "id": "84168712096",
-  "publishPath": "oissue/2018/",
-  "stagingUrl": "http://stage-projects.chicagomaroon.com/oissue/2018/",
-  "url": "https://projects.chicagomaroon.com/oissue/2018/",
+  "publishPath": "oissue-2019/",
+  "stagingUrl": "http://stage-projects.chicagomaroon.com/oissue-2019/",
+  "url": "https://projects.chicagomaroon.com/oissue-2019/",
   "timestamp": "1996-09-06T08:13-0400",
   "dateline": "September 6, 1996",
   "header": {
@@ -19,11 +19,11 @@
   },
   "share": {
     "fbook": {
-      "card_title": "O-Issue 2018, by The Chicago Maroon",
+      "card_title": "O-Issue 2019, by The Chicago Maroon",
       "card_description": "An introduction to the next four years."
     },
     "twitter": {
-      "card_title": "Welcome to UChicago: The Maroon's 2018 O-Issue",
+      "card_title": "Welcome to UChicago: The Maroon's 2019 O-Issue",
       "share_tweet": "The independent student newspaper of The University of Chicago since 1892.",
       "card_description": "An introduction to the next four years.",
       "author": "@chicagomaroon"

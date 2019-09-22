@@ -1,9 +1,9 @@
-# oissue-2018
+# oissue
 
-| Title | oissue-2018 |
+| Title | oissue-2019 |
 |-|-|
-| Developer    | [euirim](mailto:euirim@me.com) |
-| Link | [https://projects.chicagomaroon.com/article/2018/oissue-2018/](https://projects.chicagomaroon.com/article/2018/oissue-2018/) |
+| Developer    | [firatciftci](mailto:firatciftci@uchicago.edu) |
+| Link | [https://projects.chicagomaroon.com/article/2018/oissue-2019/](https://projects.chicagomaroon.com/oissue-2019/) |
 
 
-©2018 *The Chicago Maroon*
+©2019 *The Chicago Maroon*
