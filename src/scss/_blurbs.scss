@@ -1,0 +1,105 @@
+.inner-col {
+    @media screen and (min-width: 768px) {
+        border-right: 1px solid $grey;
+    }
+}
+
+.article-blurbs {
+    hr {
+        width: 100%;
+    }
+
+    .article-blurb {
+        @media screen and (max-width: 767px) {
+            border-bottom: 1px solid $grey;
+            margin-bottom: 1rem;
+        }
+
+        .featured-image {
+            height: 200px;
+
+            @media screen and (max-width: 767px) {
+                height: 280px;
+            }
+
+            background-size: cover;
+            background-position: center;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        .head {
+            font-style: italic;
+            font-size: 1.4rem;
+
+            a {
+                color: $black;
+            }
+        }
+
+        .byline {
+            color: $grey;
+            font-family: "Verlag A", "Verlag B", "Futura", "Helvetica", sans-serif;
+            font-weight: normal;
+            font-size: 0.7rem;
+
+            .byline-name {
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+        }
+
+    }
+}
+
+.article-blurbs-minimal {
+    hr {
+        width: 100%;
+    }
+
+    .article-blurb {
+        @media screen and (max-width: 767px) {
+            border-bottom: 1px solid $grey;
+            margin-bottom: 1rem;
+        }
+
+        .featured-image {
+            height: 160px;
+
+            @media screen and (min-width: 768px) and (max-width: 991px) {
+                height: 120px;
+            }
+
+            @media screen and (min-width: 576px) and (max-width: 767px) {
+                height: 360px;
+            }
+
+            background-size: cover;
+            background-position: center;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        .head {
+            font-style: italic;
+            font-size: 1rem;
+
+            a {
+                color: $black;
+            }
+        }
+
+        .byline {
+            color: $grey;
+            font-family: "Verlag A", "Verlag B", "Futura", "Helvetica", sans-serif;
+            font-weight: normal;
+            font-size: 0.7rem;
+
+            .byline-name {
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+        }
+
+    }
+}

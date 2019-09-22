@@ -1,0 +1,40 @@
+{
+  "id": "84168712096",
+  "publishPath": "oissue/2018/",
+  "stagingUrl": "http://stage-projects.chicagomaroon.com/oissue/2018/",
+  "url": "https://projects.chicagomaroon.com/oissue/2018/",
+  "timestamp": "1996-09-06T08:13-0400",
+  "dateline": "September 6, 1996",
+  "header": {
+    "headline": "This is your headline in the metadata file",
+    "subhead": "Subhead entices the reader.",
+    "bylines": [
+      {
+        "name": "Carl Maroon",
+        "link": "https://www.chicagomaroon.com"
+      }
+    ],
+    "image": "frontpage.png",
+    "backdrop": "backdrop.png"
+  },
+  "share": {
+    "fbook": {
+      "card_title": "O-Issue 2018, by The Chicago Maroon",
+      "card_description": "An introduction to the next four years."
+    },
+    "twitter": {
+      "card_title": "Welcome to UChicago: The Maroon's 2018 O-Issue",
+      "share_tweet": "The independent student newspaper of The University of Chicago since 1892.",
+      "card_description": "An introduction to the next four years.",
+      "author": "@chicagomaroon"
+    },
+    "image": {
+      "url": "https://projects.chicagomaroon.com/oissue/2018/images/social-oissue-800.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Maroon, Chicago, UChicago"
+  }
+}
