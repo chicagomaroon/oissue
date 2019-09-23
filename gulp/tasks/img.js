@@ -15,7 +15,7 @@ module.exports = () => {
         gulp.src('./src/images/**/*.@(gif|svg)')
           .pipe(gulp.dest('./dist/images'))
 
-        gulp.src('./src/images/**/*.@(jpg|png)')
+        gulp.src('./src/images/**/*.@(jpg|jpeg|png)')
           .pipe(gulpif(images, responsive({
             '*': [{
               width: 400,
