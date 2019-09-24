@@ -14,7 +14,8 @@
         "link": "https://www.chicagomaroon.com"
       }
     ],
-    "image": "frontpage_without_text.png"
+    "image": "frontpage_without_text.png",
+    "image_alt": "hustle.jpeg"
   },
   "share": {
     "fbook": {
