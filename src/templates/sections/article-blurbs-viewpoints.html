@@ -1,0 +1,21 @@
+<hr style="width: 100%"/>
+<div class="section-header">Viewpoints</div>
+<div class="article-blurbs-viewpoints">
+  {% for article in section.articles %}
+    <div class="article-blurb">
+      <a href="{{ article.link }}" target="_blank">
+        <div class="head">
+          {{ article.head }}
+        </div>
+        <div class="byline">
+        By {% for byline in article.bylines -%}
+            {{ ", " if not loop.first and loop.length > 2 }}
+            {{ " & " if loop.last and loop.index > 1 }}
+            <span class="byline-name">{{ byline }}</span>
+          {%- endfor %}
+        </div>
+        <div class="subhead">{{ article.subhead }}</div>
+      </a>
+    </div>
+  {% endfor %}
+</div>

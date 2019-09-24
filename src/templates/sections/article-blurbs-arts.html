@@ -1,0 +1,30 @@
+<hr style="width: 100%"/>
+<div class="section-header">Arts</div>
+<div class="article-blurbs row">
+  {% for article in section.articles %}
+    <div class="col-md-4 {% if not loop.last %}inner-col{% endif %}">
+      <a href="{{ article.link }}" target="_blank">
+        <div class="article-blurb">
+          <div
+          class="featured-image"
+          style="background-image:url({% if env == 'production' %}'images/{{ article.image | imageVersion(400) }}'{% else %}'../../images/{{
+            article.image
+          }}'{% endif %})"
+        ></div>
+          <h2 class="head">
+            {{ article.head }}
+          </h2>
+          <div class="byline">
+        By {% for byline in article.bylines -%}
+              {{ ", " if not loop.first and loop.length > 2 }}
+              {{ " & " if loop.last and loop.index > 1 }}
+              <span class="byline-name">{{ byline }}</span>
+            {%- endfor %}
+          </div>
+          <p class="subhead">{{ article.subhead }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+<hr style="width: 100%"/>
