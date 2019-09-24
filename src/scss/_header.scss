@@ -11,8 +11,8 @@ $sidePadding: 0.8rem;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
-  @media screen and (max-width: 767) {
-    height: 160vmin;
+  @media screen and (max-width: 768px) {
+    height: 140vmin;
     background-position: right;
     background-attachment: scroll;
   }
