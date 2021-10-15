@@ -1,56 +1,30 @@
 {
-  "headline": "O-Issue 2019",
-  "subhead": "Hello world.",
+  "headline": "O-Issue 2021",
+  "subhead": "An introduction to the next four years.",
   "sections": [
     {
       "type": "article-blurbs",
       "articles": [
         {
-          "head": "The Fight for Jackson Park",
-          "subhead": "The future of the Obama Presidential Center (OPC) and Jackson Park, the planned site of the Center, remains uncertain after a summer of legal action and community activism both for and against proposed construction plans.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/20/fight-jackson-park-rages/",
-          "image": "jackson_park.png",
-          "bylines": ["Emma Dyer"]
+          "head": "Welcome, Class of 2025!",
+          "subhead": "From all of us at The Chicago Maroon, welcome to the University of Chicago!",
+          "link": "https://chicagomaroon.com/article/2021/9/20/welcome-class-2025/",
+          "image": "note.png",
+          "bylines": ["Adyant Kanakamedala, Ruby Rorty, Matthew Lee"]
         },
         {
-          "head": "Election 2020: Who Did UChicago Students Campaign For?",
-          "subhead": "Elizabeth Warren’s campaign was most popular. Kamala Harris and Pete Buttigieg were also favorites.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/20/election-2020-uchicago-students-campaign/",
-          "image": "warren_rally.jpeg",
-          "bylines": ["Lee Harris"]
-        },
-        {
-          "head": "The University and the Trump Administration",
-          "subhead": "The Trump administration has influenced the future of undocumented students, the adjudication of sexual assault cases, union organizing, admissions policies, and freedom of expression.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/university-trump-administration/",
-          "image": "title_ix_office.jpeg",
-          "bylines": ["Miles Burton"]
-        }
-      ]
-    },
-    {
-      "type": "article-blurbs",
-      "articles": [
-        {
-          "head": "Who's Who in Local Government",
+          "head": "Who's Who in Local Politics",
           "subhead": "Here’s a breakdown of who you need to know in the executive and legislative branches of the city government.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/local-government/",
-          "image": "lightfoot.jpeg",
-          "bylines": ["Elaine Chen"]
+          "link": "https://chicagomaroon.com/article/2021/9/19/local-politics/",
+          "image": "0.jpeg",
+          "bylines": ["Pranathi Posa"]
         },
         {
-          "head": "Who's Who: Professors Iconic, Beloved, and Infamous",
-          "subhead": "Compared to some faculty members, students can seem like the least zany members of the University.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/professors-iconic-beloved-infamous/",
-          "image": "agnes_callard.jpeg",
-          "bylines": ["Maroon Staff"]
-        },
-        {
-          "head": "Who's Who: University Administrators",
-          "subhead": "The names to know in University administration.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/whos-university-administrators/",
-          "image": "zimmer.jpeg",
-          "bylines": ["Maroon Staff"]
+          "head": "Marooners’ Guide to Hidden Gems On and Around Campus",
+          "subhead": "We asked our staff what their favorite places to eat, think, and be are. Here’s what they said.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/marooners-guide-hidden-gems-around-campus/",
+          "image": "1.jpeg",
+          "bylines": ["The Maroon Staff"]
         }
       ]
     },
@@ -58,51 +32,37 @@
       "type": "article-blurbs",
       "articles": [
         {
-          "head": "Student Government at UChicago: A Primer",
-          "subhead": "Student Government at UChicago manages an annual budget of more than $2 million.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/19/student-government-uchicago/",
-          "image": "student_government.jpeg",
-          "bylines": ["Justin Smith"]
+          "head": "A Roundup of This Summer's Major News",
+          "subhead": "Here's a roundup of all the major news from this summer to be up to date on for the new school year.",
+          "link": "https://chicagomaroon.com/article/2021/9/20/roundup-summer-major-news/",
+          "image": "2.jpeg",
+          "bylines": ["Roshini Balan"]
         },
         {
-          "head": "A History of Resistance: Politics and Activism on Campus",
-          "subhead": "The quad appeared somewhat unrecognizable during finals week last quarter. Juxtaposed to the green idyll of a manicured, springtime UChicago were picket lines encircling each ivy-clad building.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/history-resistance-politics-activism-campus/",
-          "image": "carenotcops.jpeg",
-          "bylines": ["Zahra Nasser"]
-        },
-        {
-          "head": "Sororities and Fraternities at UChicago",
-          "subhead": "There are more than 20 Greek organizations currently operating on campus, including four sororities within the UChicago Panhellenic Council. Most fraternities have houses off-campus; unusually, none of UChicago’s sororities has a house.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/greek-life-uchicago/",
-          "image": "frats.jpeg",
-          "bylines": ["Maroon Staff"]
+          "head": "The Biggest Debates, Discussions, and Decisions at UChicago",
+          "subhead": "UChicago is a contentious place. Here’s a primer on some of the biggest topics on campus.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/biggest-debates-discussions-decisions-uchicago/",
+          "image": "3.jpeg",
+          "bylines": ["Nikhil Jaiswal"]
         }
       ]
     },
     {
-      "type": "article-blurbs",
+      "type": "article-blurbs-greycity",
       "articles": [
         {
-          "head": "How To Save Money as a UChicago Student",
-          "subhead": "College living is expensive. Here are a few budget-trimming tips.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/save-money-uchicago-student/",
-          "image": "west_loop.jpeg",
-          "bylines": ["Maroon Staff"]
+          "head": "Grappling with Injustice: The Future of Problematic Statues in Hyde Park",
+          "subhead": "Grey City unpacks the deeper themes of identity, representation, and history that can be found in discourse about local statues.",
+          "link": "https://chicagomaroon.com/article/2021/9/9/grappling-injustice-future-problematic-statues-hyde-park/",
+          "image": "4.jpeg",
+          "bylines": ["Solana Adedokun"]
         },
         {
-          "head": "When You Need A Hand: Health And Wellbeing At The University",
-          "subhead": "If you experience difficulties at UChicago, there are several resources you can turn to for help.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/need-hand-health-wellbeing-university/",
-          "image": "wellness_center.jpeg",
-          "bylines": ["Camille Kirsch"]
-        },
-        {
-          "head": "Life of the Spirit: A Guide to Religion on Campus",
-          "subhead": "Student groups and community spots include Bible study groups, nondenominational chapels, and a mosque founded by boxing legend Muhammad Ali.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/18/guide-religious-life-uchicago/",
-          "image": "holi.jpeg",
-          "bylines": ["Oren Oppenheim"]
+          "head": "From the Barracks to Vue 53: The Unique Experiences of UChicago’s Veteran Students",
+          "subhead": "Four of the University’s Veteran Scholars discussed their nontraditional journeys to the College and the lessons they’ve learned along the way.",
+          "link": "https://chicagomaroon.com/article/2021/9/9/barracks-vue-53-uchicagos-veteran-students-bring-fresh/",
+          "image": "grey_city.png",
+          "bylines": ["Michael McClure"]
         }
       ]
     },
@@ -110,52 +70,46 @@
       "type": "article-blurbs-viewpoints",
       "articles": [
         {
-          "head": "Solidarity With Grad Workers!",
-          "subhead": "We work for the University, and we want an organized voice in decisions that affect us.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/20/solidarity-grad-workers/",
-          "bylines": ["Graduate Students United"]
+          "head": "Take a Step Back to Run the Race",
+          "subhead": "Amid the competitive environment of your first year, use your classes as an opportunity to better understand yourself.",
+          "link": "https://chicagomaroon.com/article/2021/9/6/take-step-back-run-race/",
+          "bylines": ["Luke Contreras"]
         },
         {
-          "head": "CIA Recruitment on Campus Must End",
-          "subhead": "Due to the CIA’s complicity in human rights violations, students should oppose professional opportunities with the organization.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/cia-recruitment-campus-must-end/",
-          "bylines": ["Adrian Mandeville"]
+          "head": "Who Keeps Us Safe?",
+          "subhead": "Incoming students must unlearn the conceptions of safety peddled by the University.",
+          "link": "https://chicagomaroon.com/article/2021/9/6/keeps-us-safe/",
+          "bylines": ["Kelly Hui"]
         },
         {
-          "head": "Starting College After a Gap Year",
-          "subhead": "Though many worry about starting college a year later than expected, adjusting to college after a gap year isn’t as difficult as it’s assumed to be.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/starting-college-gap-year/",
-          "bylines": ["Sylvia Ebenbach"]
+          "head": "For Better or Worse, You Are UChicago",
+          "subhead": "The instinct to distance oneself from the slurry of stereotypes that circulate campus is powerful—however, doing so only makes life harder.",
+          "link": "https://chicagomaroon.com/article/2021/9/8/better-worse-uchicago/",
+          "bylines": ["Manya Bharadwaj"]
         },
         {
-          "head": "Dear Incoming Freshmen: It Will Be Okay",
-          "subhead": "While there exists a slew of unhelpful advice for college freshmen, incoming students should rest assured that their first year will be challenging, enjoyable, and unique to them.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/dear-incoming-freshmen-okay/",
-          "bylines": ["Ruby Rorty"]
+          "head": "Stay True to You",
+          "subhead": "Faced with the new pressures and freedoms of college, it is more important than ever to prioritize your own wellbeing.",
+          "link": "https://chicagomaroon.com/article/2021/9/7/stay-true/",
+          "bylines": ["Maya Ordonez"]
         },
         {
-          "head": "The Neverending Quarter System Summer",
-          "subhead": "Anticipating the next academic year at UChicago may lead to various expectations, and even anxiety about a new year.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/neverending-quarter-system-summer/",
-          "bylines": ["Brinda Rao"]
+          "head": "Help Can Only Help",
+          "subhead": "As hard as it may seem, especially as we transition from online to in-person learning, asking for help makes life at UChicago much more manageable.",
+          "link": "https://chicagomaroon.com/article/2021/9/6/help-help/",
+          "bylines": ["Jennifer Rivera"]
         },
         {
-          "head": "The Profound Benefits of Add-Drop",
-          "subhead": "First-year students shouldn’t be wary of adding and dropping courses at the start of the quarter, as it often proves to be helpful.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/profound-benefits-add-drop/",
-          "bylines": ["Areeha Khalid"]
+          "head": "What You Need to Know About Contingent Faculty (AKA Your Professors)",
+          "subhead": "The Faculty Forward union advocates on behalf of non–tenure track faculty, and it needs your help to create a better UChicago for workers and students alike.",
+          "link": "https://chicagomaroon.com/article/2021/9/8/need-know-contingent-faculty-aka-professors/",
+          "bylines": ["Faculty Forward"]
         },
         {
-          "head": "The Myth of the Impenetrable College Clique",
-          "subhead": "While exclusive friend groups were commonplace in high school, UChicago’s social scene is less daunting if you remain open-minded.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/myth-impenetrable-college-clique/",
-          "bylines": ["Susy Liu"]
-        },
-        {
-          "head": "The Importance of Candor and Communication",
-          "subhead": "Though social anxiety is quite common at UChicago, there is still room for building confidence through kindness and honesty.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/23/importance-candor-communication/",
-          "bylines": ["Eli Winter"]
+          "head": "Surviving UChicago",
+          "subhead": "Sexual assault on campus is rampant, and the future is uncertain—but we, as a community of survivors, will keep fighting.",
+          "link": "https://chicagomaroon.com/article/2021/9/8/surviving-uchicago/",
+          "bylines": ["Parul Kumar"]
         }
       ]
     },
@@ -163,39 +117,64 @@
       "type": "article-blurbs-arts",
       "articles": [
         {
-          "head": "Marching to the Beat of Your Own Drum: Music at UChicago",
-          "subhead": "From the classical to the contemporary and the well-established to the student-run, opportunities to play and appreciate music abound at UChicago.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/16/marching-beat-drum-music-uchicago/",
-          "image": "dirt_red_brass.jpeg",
-          "bylines": ["Jane Jozefowicz"]
+          "head": "Intermission’s Finally Over: Theater Returns to Campus",
+          "subhead": "Theater at UChicago is arguably the most accessible art form. With dozens of opportunities each quarter, there’s something for everyone.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/intermissions-finally-theater-returns-campus/",
+          "image": "5.jpeg",
+          "bylines": ["Gabi Garcia"]
         },
         {
-          "head": "Dunking the Brush: Visual Arts on Campus",
-          "subhead": "Whether you’re looking to make art or appreciate it, the UChicago campus is brimming with opportunities for you to make happy little accidents.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/dunking-brush-visual-arts-campus/",
-          "image": "smart_museum.jpeg",
-          "bylines": ["Perri Wilson"]
-        },
-        {
-          "head": "Where to Get Your Groove on at UChicago",
-          "subhead": "From ballet to hip-hop, swing dance to K-pop, the College community is bursting with opportunities for the kinetically inclined to stretch their feet.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/get-groove-uchicago/",
-          "image": "udance.jpeg",
-          "bylines": ["Alina Kim"]
-        },
-        {
-          "head": "Theater on Campus",
-          "subhead": "Feeling a little dramatic this o-week? Put your emotions to good use by getting involved in campus' theater scene.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/theater-campus/",
-          "image": "theater.jpeg",
-          "bylines": ["Arts editors"]
+          "head": "UChicago on the Big (and Small) Screen: Films and TV Shows Set on Campus",
+          "subhead": "From “Divergent” to “Ferris Bueller's Day Off,” here's a breakdown of all the movies and TV shows that have been filmed (or almost filmed) at UChicago",
+          "link": "https://chicagomaroon.com/article/2021/9/13/uchicago-big-small-screen-films-tv-shows-set-campus/",
+          "image": "8.jpeg",
+          "bylines": ["Veronica Chang"]
         },
         {
           "head": "Arts and Culture Off Campus",
-          "subhead": "We've pulled together a tiny sampling of the many, many, artsy opportunities that Chicago has to offer.",
-          "link": "https://www.chicagomaroon.com/article/2019/9/22/arts-culture-campus/",
+          "subhead": "Whether you're a music aficionado or a theater enthusiast, Chicago is the place to be.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/arts-culture-campus/",
+          "image": "6.jpeg",
+          "bylines": ["Isabella Cisneros & Gabi Garcia"]
+        },
+        {
+          "head": "The “Write” Way to Get Involved on Campus",
+          "subhead": "An insider’s guide to UChicago’s diverse array of student publications.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/write-way-get-involved-campus/",
+          "image": "arts.png",
+          "bylines": ["Natalie Manley"]
+        },
+        {
+          "head": "From the Smart Museum to “The Ren,” Art Is Everywhere at UChicago",
+          "subhead": "An overview of what to see and where to see it, UChicago art edition.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/smart-museum-ren-art-everywhere-uchicago/",
+          "image": "arts.png",
+          "bylines": ["Angélique Alexos"]
+        },
+        {
+          "head": "Dance RSOs to Get Your Footwork “En Pointe”",
+          "subhead": "From K-pop to hip-hop and competitive to casual, there’s a dance group for everyone at UChicago.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/dance-rsos-get-footwork-en-pointe/",
           "image": "arts.png",
           "bylines": ["Arts editors"]
+        },
+        {
+          "head": "Caffeine Around UChicago: For When Dining Hall Coffee Just Isn’t Enough",
+          "subhead": "Whether you are seeking a dose of caffeine for a midterm paper writing boost, a game of pool with your friends, or a chance to pursue your dream of becoming a barista, here are some student coffee shops and off-campus favorites for you to check out.",
+          "link": "https://chicagomaroon.com/article/2021/9/13/caffeine-around-uchicago-dining-hall-coffee-isnt-enough/",
+          "image": "7.jpeg",
+          "bylines": ["Natalie Manley & Isabella Cisneros"]
+        }
+      ]
+    },
+    {
+      "type": "article-blurbs-sports",
+      "articles": [
+        {
+          "head": "The Return of Fall Sports",
+          "subhead": "Fall sport athletes are excited and grateful for the opportunity to resume competition.",
+          "link": "https://chicagomaroon.com/article/2021/9/9/return-fall-sports/",
+          "bylines": ["Alison Gill & Ali Sheehy"]
         }
       ]
     }

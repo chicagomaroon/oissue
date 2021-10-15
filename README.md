@@ -1,9 +1,9 @@
 # oissue
 
-| Title | oissue-2019 |
+| Title | oissue-2021 |
 |-|-|
 | Developer    | [firatciftci](mailto:firatciftci@uchicago.edu) |
-| Link | [https://projects.chicagomaroon.com/oissue/2019/](https://projects.chicagomaroon.com/oissue/2019/) |
+| Link | [https://projects.chicagomaroon.com/oissue/2021/](https://projects.chicagomaroon.com/oissue/2021/) |
 
 
-©2019 *The Chicago Maroon*
+©2021 *The Chicago Maroon*

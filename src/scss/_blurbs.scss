@@ -29,6 +29,7 @@ a:hover {
 .article-blurbs {
   .article-blurb {
     background-color: rgb(250, 250, 250);
+    margin-bottom: 1rem !important;
     border-radius: 18px;
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
     transition: all 0.15s ease;
@@ -82,6 +83,58 @@ a:hover {
 }
 
 .article-blurbs-viewpoints {
+  display: flex;
+  flex-direction: column;
+
+  .article-blurb {
+    border-radius: 18px;
+    background-color: rgb(250, 250, 250);
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    transition: all 0.15s ease;
+
+    @media (prefers-color-scheme: dark) {
+      background-color: rgb(26, 26, 26);
+    }
+
+    .head {
+      background-color: rgb(230, 230, 230);
+      font-size: 1.4rem;
+      font-weight: 900;
+      border-top-left-radius: 18px;
+      border-top-right-radius: 18px;
+      padding: 0.25rem 0.5rem;
+
+      @media (prefers-color-scheme: dark) {
+        background-color: rgb(40, 40, 40);
+      }
+    }
+
+    .byline {
+      color: $grey;
+      font-family: 'Verlag A', 'Verlag B', 'Futura', 'Helvetica', sans-serif;
+      font-weight: normal;
+      font-size: 0.7rem;
+      margin-top: 0.25rem;
+      margin-bottom: 0.25rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+
+      .byline-name {
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+    }
+
+    .subhead {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-bottom: 0.5rem;
+    }
+  }
+}
+
+.article-blurbs-sports {
   display: flex;
   flex-direction: column;
 

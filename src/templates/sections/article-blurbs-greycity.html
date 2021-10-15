@@ -1,0 +1,29 @@
+<hr style="width: 100%"/>
+<div class="section-header">Grey City</div>
+<div class="article-blurbs row">
+  {% for article in section.articles %}
+    <div class="col-lg-6 {% if not loop.last %}inner-col{% endif %}">
+      <a href="{{ article.link }}" rel="noreferrer" target="_blank">
+        <div class="article-blurb">
+          <div
+          class="featured-image"
+          style="background-image:url({% if env == 'production' %}'images/{{ article.image | imageVersion(400) }}'{% else %}'../../images/{{
+            article.image
+          }}'{% endif %})"
+        ></div>
+          <div class="head">
+            {{ article.head }}
+          </div>
+          <div class="byline">
+        By {% for byline in article.bylines -%}
+              {{ ", " if not loop.first and loop.length > 2 }}
+              {{ " & " if loop.last and loop.index > 1 }}
+              <span class="byline-name">{{ byline }}</span>
+            {%- endfor %}
+          </div>
+          <div class="subhead">{{ article.subhead }}</div>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
